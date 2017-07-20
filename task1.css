@@ -1,0 +1,21 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+div {
+	width: 30%;
+	height: 30vw;
+	position: absolute;
+	top: 30px;
+	left: 30px;
+}
+span {
+	float: left;
+	width: 30%;
+	height: 30%;
+	background-color: orange;
+	margin: 1px;
+	border-radius: 10%;
+}
+
